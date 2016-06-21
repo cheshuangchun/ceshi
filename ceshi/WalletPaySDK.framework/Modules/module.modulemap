@@ -1,0 +1,6 @@
+framework module WalletPaySDK {
+  umbrella header "WalletPaySDK.h"
+
+  export *
+  module * { export * }
+}
